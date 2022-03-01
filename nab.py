@@ -19,7 +19,7 @@ import html2text
 import json
 import lxml
 
-from st_aggrid import AgGrid
+# from st_aggrid import AgGrid
 
 
 st.set_page_config('NAB deals',layout='wide')
