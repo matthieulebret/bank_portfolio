@@ -18,6 +18,7 @@ import html2text
 
 import json
 import lxml
+import openpyxl
 
 # from st_aggrid import AgGrid
 
